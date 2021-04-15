@@ -82,8 +82,8 @@ h1 {
 }
 
 .check {
-    min-width: 15px;
-    height: 15px;
+    min-width: 20px;
+    height: 20px;
     border: 3px solid #bb73ff;
     background: white;
     margin-right: 5px;
