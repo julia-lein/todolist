@@ -5,6 +5,7 @@
 body {
     height: 100vh;
     background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.8) ), url(./images/love-4089493_1920.jpg) top center;
+    background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -23,6 +24,7 @@ h1 {
     font-size: 20px;
     opacity: 0.9;
     border-radius: 15px;
+    margin-bottom: 20px;
 }
 
 .new {
