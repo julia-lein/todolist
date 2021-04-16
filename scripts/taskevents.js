@@ -16,7 +16,7 @@ function taskEvents(event, tasksList)
         const editedTask = event.target.previousElementSibling;
         editTask(editedTask, editButton);
     }
-
+       
     //on click on delete button
     if (event.target.classList.contains("delete"))
     {
